@@ -1,0 +1,10 @@
+[
+    {
+        "filename": "greeting.txt",
+        "content": "SGVsbG8sIFdvcmxkIQ=="
+    },
+    {
+        "filename": "greeting.json",
+        "content": "ewogICAgImdyZWV0aW5nIjogIkhlbGxvLCBXb3JsZCEiCn0="
+    }
+]
